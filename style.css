@@ -181,5 +181,10 @@ body {
     .dispositivos__lista {
         display: block;
     }
+
+    .rodape__lista {
+        display: grid;
+        gap: 5px;
+    }
     
 }
