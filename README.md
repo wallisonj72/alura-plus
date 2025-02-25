@@ -1,8 +1,12 @@
-#Alura+
+# Alura+
 
--Projeto desenvolvido no curso HTML/CSS da Alura!
+# Projeto desenvolvido no curso HTML/CSS da Alura!
 
-#Tecnologias utilizadas:
-    -HTML
-    -CSS
-    -Git e Github
+## Tecnologias utilizadas:
+    *HTML
+    *CSS
+    *Versionamento de codigo com:
+        *Git
+        *Github
+
+🤘🤘🤘🤘🤘
